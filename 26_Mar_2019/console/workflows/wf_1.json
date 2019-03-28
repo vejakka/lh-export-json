@@ -1,0 +1,19 @@
+{
+  "previous_action": {
+    "id": "0161JWQQA2ZJS6QVUH2Fikzfc4p59qdcgfe",
+    "type": "generic.workflow",
+    "base_type": "workflow"
+  },
+  "action": {
+    "schema_id": "1BU8gYeI2VwWdd4z5VNPeyx5uD3",
+    "type": "core.string2upper",
+    "base_type": "activity",
+    "name": "To Upper",
+    "properties": {
+      "continue_on_failure": false,
+      "display_name": "To Upper",
+      "source": "abc"
+    },
+    "title": "To Upper"
+  }
+}
